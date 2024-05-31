@@ -1,4 +1,4 @@
-# ishop-backend
+# iShop-backend
 
 ## Description
 This application has been developed as a back end for e-commerce websites. This framework maintains API's for CRUD operations for managing e commerce data.
